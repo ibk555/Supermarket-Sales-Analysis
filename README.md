@@ -1,1 +1,1 @@
-# Supermarket-Sales-Analysis
+The provided Jupyter notebook focuses on analyzing supermarket data, including reviews and sales performance. It follows a data analysis pipeline that includes data loading, cleaning, exploratory analysis, visualization, and statistical analysis. The notebook requires Python, Pandas, Matplotlib, Seaborn, and possibly Scikit-learn for operation. Users can run the analysis by navigating through the notebook in a Jupyter environment. Contributions to enhance the notebook are encouraged through repository forks and pull requests.
